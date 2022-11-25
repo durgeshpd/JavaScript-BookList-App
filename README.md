@@ -1,3 +1,3 @@
-View this APP-----> #Booklist
+#Booklist
 Project Demo Link:
 https://durgeshpd.github.io/JavaScript-BookList-App/
